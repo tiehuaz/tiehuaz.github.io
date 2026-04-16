@@ -37,7 +37,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR).
 ## News
 
 - **[04/2026]**: One paper accepted by **IEEE TNSE**, Congrats to Zhishu and others!
-- **[02/2026]**: One paper accepted by **WWW'26 Oral!**, Congrats to Yuze and Yunhan (undergraduate students).
+- **[02/2026]**: One paper accepted by **WWW'26 Oral**! Congrats to Yuze and Yunhan (undergraduate student).
 - **[01/2026]**: One paper accepted by **IEEE TMC**.
 
 ---
@@ -321,9 +321,4 @@ Email: [tiehuaz@hotmail.com](mailto:tiehuaz@hotmail.com)*
 
 ---
 
-[comment]: <> (## Contact)
-
-[comment]: <> (- Email: [you@example.com]&#40;mailto:you@example.com&#41;)
-
-[comment]: <> (- Address: Department of XXX, Your University, City, Country)
 
