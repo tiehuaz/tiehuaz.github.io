@@ -1,7 +1,7 @@
 
 <div class="hero-profile">
   <div class="hero-text">
-    <h1>Tiehua Zhang</h1>
+    <h1>Dr. Tiehua Zhang</h1>
     <p class="subtitle">
       Tenure-track Professor<br>
       School of Computer Science and Technology, Tongji University
