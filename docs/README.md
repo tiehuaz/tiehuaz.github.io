@@ -1,8 +1,5 @@
 
 <div class="hero-profile">
-
-[comment]: <> (  <img class="avatar" src="/public/avatar.jpg" alt="avatar" />)
-
   <div class="hero-text">
     <h1>Tiehua Zhang</h1>
     <p class="subtitle">
