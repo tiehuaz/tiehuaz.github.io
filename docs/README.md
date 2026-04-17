@@ -36,7 +36,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR).
 
 ## News
 
-- **[04/2026]**: I will chair the Application and Industry Track at METAVERSE 2026. 
+- **[04/2026]**: I will chair the Application and Industry Track at **METAVERSE 2026**. 
 - **[04/2026]**: One paper accepted by **IEEE TNSE**, Congrats to Zhishu and others!
 - **[02/2026]**: One paper accepted by **WWW'26 Oral**! Congrats to Yuze and Yunhan (undergraduate student).
 - **[01/2026]**: One paper accepted by **IEEE TMC**.
