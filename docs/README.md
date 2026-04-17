@@ -36,6 +36,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR).
 
 ## News
 
+- **[04/2026]**: I will chair the Application and Industry Track at METAVERSE 2026. 
 - **[04/2026]**: One paper accepted by **IEEE TNSE**, Congrats to Zhishu and others!
 - **[02/2026]**: One paper accepted by **WWW'26 Oral**! Congrats to Yuze and Yunhan (undergraduate student).
 - **[01/2026]**: One paper accepted by **IEEE TMC**.
@@ -276,10 +277,10 @@ Commendation) and the Swinburne Research Excellence Award (HDR).
 
 ## Awards & Honors
 
-- Shanghai 35 Leading Young Scientists, 2025
+- Shanghai Science & Technology 35 Under 35 (S&T35), 2025
 - Shanghai Pudong New Area Pearl Elite Award, 2024
 - CCF Digital Finance Conference Best Poster Award, 2024  
-- Shanghai High-Level Talent (Oversea) Program, 2023
+- Shanghai High-Level Talent (Overseas), 2023
 - Ant Group Research Innovation Award of The Year, 2022
 - Swinburne Outstanding Thesis Award (Highly Commendation), 2021
 - Swinburne Research Excellence Award (HDR), 2020
@@ -289,9 +290,8 @@ Commendation) and the Swinburne Research Excellence Award (HDR).
 
 ## Teaching
 
-- **Spring 2026** — Advanced Programming Language Design @ Tongji
-- **Spring 2025** — Advanced Programming Language Design @ Tongji
-- **Fall 2025** — Introduction to Information Security @ Tongji
+- **Spring 2025, Spring 2026** — Advanced Programming Language Design @ Tongji
+- **Fall 2025, Fall 2026** — Introduction to Information Security @ Tongji
 - **Fall 2025** — Algorithms and Data Structures @ Tongji
 - **Spring 2020** — Deep Learning @ Deakin
 - **Fall 2019** — Statistical Data Analysis @ Deakin
