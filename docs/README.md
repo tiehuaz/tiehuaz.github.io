@@ -38,6 +38,8 @@ Commendation) and the Swinburne Research Excellence Award (HDR).
 
 - **[04/2026]**: I will chair the Application and Industry Track at **METAVERSE 2026**. 
 - **[04/2026]**: One paper accepted by **IEEE TNSE**, Congrats to Zhishu and others!
+- **[03/2026]**: We released [Safety in Embodied AI](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety), a survey paper that reviews over 400 papers in the field, with
+  collaboration more than 10 institutions worldwide. Great team work!
 - **[02/2026]**: One paper accepted by **WWW'26 Oral**! Congrats to Yuze and Yunhan (undergraduate student).
 - **[01/2026]**: One paper accepted by **IEEE TMC**.
 
