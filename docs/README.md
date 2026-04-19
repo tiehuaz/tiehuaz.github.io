@@ -160,7 +160,11 @@ Commendation) and the Swinburne Research Excellence Award (HDR).
   
 - **Tiehua Zhang**, Yuze Liu, Yao Yao, Youhua Xia, Xin Chen, Xiaowei Huang, Jiong Jin.  
   **Towards Relation-centered Pooling and Convolution for Heterogeneous Graph Learning Networks**.  
-  *AAAI-DLG, 2023*.
+  *AAAI-DLG, 2022*.
+
+- Zhishu Shen, Jiong Jin, **Tiehua Zhang**, Atsushi Tagami, Teruo Higashino, Qinglong Han.  
+  **Data-driven Edge Computing Fabric for Intelligent Building Energy Management Systems**.  
+  *IEEE Industrial Electronics Magazine, 2022*.
 
 - Rong Liang, **Tiehua Zhang\***, Yujie Lu, Yuze Liu, Zhen Huang, Xin Chen.  
   **AstBERT: Enabling Language Model for Code Understanding with Abstract Syntax Tree**.  
