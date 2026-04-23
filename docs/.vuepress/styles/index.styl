@@ -281,3 +281,46 @@ a:hover
   .meta-label
     margin-bottom 2px
 
+.pub-block {
+  margin: 0.8rem 0 1.2rem 0;
+}
+
+.pub-block > summary {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 0;
+  line-height: 1.2;
+}
+
+.pub-block > summary .pub-year {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #2f5d8a;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 6px;
+  text-decoration-color: rgba(47, 93, 138, 0.35);
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
+}
+
+.pub-block > summary:hover .pub-year {
+  color: #2f5d8a;
+  text-decoration-color: rgba(29, 79, 128, 0.7);
+}
+
+.pub-block[open] > summary {
+  margin-bottom: 0.45rem;   /* 控制年份和论文之间的距离 */
+}
+
+.pub-block > .pub-list {
+  margin: 0.2rem 0 0 1.6rem; /* 缩小和标题之间的空隙 */
+  padding: 0;
+}
+
+.pub-block > .pub-list li {
+  margin: 0.35rem 0;
+}
+
