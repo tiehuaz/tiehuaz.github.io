@@ -36,6 +36,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 
 ## News
 
+- **[05/2026]**: Invited talk at **CCF The Conference on Graph Machine Learning 2026**.
 - **[04/2026]**: I will chair the Application and Industry Track at **METAVERSE 2026**. 
 - **[04/2026]**: One paper accepted by **IEEE TNSE**, Congrats to Zhishu and others!
 - **[03/2026]**: We released [Safety in Embodied AI](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety), a survey paper that reviews over 400 papers in the field, with
