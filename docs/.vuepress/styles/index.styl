@@ -324,3 +324,30 @@ a:hover
   margin: 0.35rem 0;
 }
 
+
+
+/* Scrollable News block */
+.theme-default-content h2#news + ul
+  max-height 180px
+  overflow-y auto
+  padding 14px 22px 14px 32px
+  margin-top 0.8rem
+  border 1px solid #e5e7eb
+  border-radius 12px
+  background #fafafa
+  scrollbar-gutter stable
+
+.theme-default-content h2#news + ul li
+  margin 0.45rem 0
+  line-height 1.6
+
+.theme-default-content h2#news + ul::-webkit-scrollbar
+  width 8px
+
+.theme-default-content h2#news + ul::-webkit-scrollbar-thumb
+  background #cbd5e1
+  border-radius 999px
+
+.theme-default-content h2#news + ul::-webkit-scrollbar-track
+  background transparent
+
