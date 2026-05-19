@@ -388,7 +388,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 
 ## Teaching
 
-- **Spring 2025, Spring 2026** — Advanced Programming Language Design @ Tongji
+- **Spring 2025, Spring 2026** — Advanced Programming Language @ Tongji
 - **Fall 2025, Fall 2026** — Introduction to Information Security @ Tongji
 - **Fall 2025** — Algorithms and Data Structures @ Tongji
 - **Spring 2020** — Deep Learning @ Deakin
