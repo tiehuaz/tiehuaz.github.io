@@ -424,7 +424,7 @@ Email: [tiehuaz@hotmail.com](mailto:tiehuaz@hotmail.com)*
 <p align="center">
   <a href="https://clustrmaps.com/site/1ca1q" title="Visit tracker">
     <img
-      src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=320&t=tt&d=l_aQeg5gsKx8qJhQRnLZL3luRVRNHmsuBiN5glyUiBw&co=2d78ad&ct=ffffff"
+      src="//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=m&d=l_aQeg5gsKx8qJhQRnLZL3luRVRNHmsuBiN5glyUiBw"
       alt="Visit tracker"
       width="320"
     />
