@@ -426,7 +426,7 @@ Email: [tiehuaz@hotmail.com](mailto:tiehuaz@hotmail.com)*
     <img
       src="//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=m&d=l_aQeg5gsKx8qJhQRnLZL3luRVRNHmsuBiN5glyUiBw"
       alt="Visit tracker"
-      width="320"
+      width="360"
     />
   </a>
 </p>
