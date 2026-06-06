@@ -36,8 +36,9 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 
 ## News
 
-- **[05/2026]**: I'm invited to give a talk at **CCF The Conference on Graph Machine Learning 2026**, Changchun, China.
-- **[04/2026]**: I will chair the Application and Industry Track at **METAVERSE 2026**. 
+- **[06/2026]**: I'm invited to give a talk at **Shanghai Research Institute of Building Sciences (Group)**, titled "Collaborative Development and Trends of Large and Small Models Across Cloud–Edge Environment".
+- **[05/2026]**: I'm invited to give a talk at **CCF The Conference on Graph Machine Learning 2026**, titled "Hypergraph Computation and Domain Applications".
+- **[04/2026]**: I will chair the Application and Industry Track at **International Conference on Metaverse (METAVERSE 2026)**. 
 - **[04/2026]**: One paper accepted by **IEEE TNSE**, Congrats to Zhishu and others!
 - **[03/2026]**: We released [Safety in Embodied AI](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety), a survey paper that reviews over 400 papers in the field, with
   collaboration more than 10 institutions worldwide. Great team work!
@@ -403,8 +404,8 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
   and Networking (Guest Editor), Computer Engineering.
 - Chair/Organizer: Application and Industry Track Chair (METAVERSE 2025, 2026), Publicity Chair (CCF Digital Finance Conference, 2024)  
 - PC for Conferences: NeurIPS (2021, 2022, 2023, 2024, 2025), WWW (2022, 2023, 2024, 2025), MSN (2024, 2025),
-  INFOCOM (2023, 2024, 2025), ICASSP (2021, 2022, 2023, 2024, 2025), PAKDD (2019, 2020, 2021, 2023, 2024), ACM MM (2019,
-  2020, 2021, 2024).
+  INFOCOM (2023, 2024, 2025), ICASSP (2021, 2022, 2023, 2024, 2025, 2026), PAKDD (2019, 2020, 2021, 2023, 2024, 2025), ACM MM (2019,
+  2020, 2021, 2024, 2026).
 - Reviewer for Journals: IEEE TAI, IEEE TII, IEEE IoT-J, IEEE TVT, IEEE TKDE, IEEE TBD, ACM TOSEM, IEEE TNSE, ACM TKDD,
   Information Sciences, Neurocomputing, World Wide Web Journal, Neural Networks, EAAI, Information Processing &
   Management.
