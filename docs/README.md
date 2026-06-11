@@ -53,6 +53,21 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
   <summary><span class="pub-year">Preprint</span></summary>
   <ul class="pub-list">
     <li>
+      Jinze Wang, Yangchen Zeng, <strong>Tiehua Zhang*</strong>, Lu Zhang, Yuze Liu, Zhishu Shen, Jiong Jin, Zhu Su.<br>
+      <strong>Meta-Modal Agent: Sequential Evidence Routing for Missing-Modality Candidate Reranking</strong>.<br>
+      <em>arXiv:2605.25007, 2026</em>.
+    </li>
+    <li>
+      Jinze Wang, Yangchen Zeng, Tiehua Zhang, Lu Zhang, Yuze Liu, Yongchao Liu, Xingjun Ma, Zhu Su.<br>
+      <strong>Agent4POI: Agentic Context-Conditioned Affordance Reasoning for Multimodal Point-of-Interest Recommendation</strong>.<br>
+      <em>arXiv:2605.15203, 2026</em>.
+    </li>
+    <li>
+      Tingshu Mou, Jiabo He, Renying Wang, Ce Liu, Hao Yang, <strong>Tiehua Zhang</strong>, Jingjing Chen, Xingjun Ma.<br>
+      <strong>ViSRA: A Video-based Spatial Reasoning Agent for Multi-modal Large Language Models</strong>.<br>
+      <em>arXiv:2605.10106, 2026</em>.
+    </li>
+    <li>
       Yuze Liu, Shibo Chu, <strong>Tiehua Zhang*</strong>, Hao Zhou, Zhishu Shen, Jinze Wang, Jianzhong Qi, Feng Xia.<br>
       <strong>ML-ECS: A Collaborative Multimodal Learning Framework for Edge-Cloud Synergies</strong>.<br>
       <em>CoRR abs/2602.14107, 2026</em>.
