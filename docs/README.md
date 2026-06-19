@@ -36,6 +36,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 
 ## News
 
+- **[06/2026]**: I am honored to have been invited to serve as a Session Chair at **The Web Conference (WWW) 2026** and as a TPC member for **MobiQuitous 2026**.
 - **[06/2026]**: I'm invited to give a talk at **Shanghai Research Institute of Building Sciences (Group)**, titled "Collaborative Development and Trends of Large and Small Models Across Cloud–Edge Environment".
 - **[05/2026]**: I'm invited to give a talk at **CCF The Conference on Graph Machine Learning 2026**, titled "Hypergraph Computation and Domain Applications".
 - **[04/2026]**: I will chair the Application and Industry Track at **International Conference on Metaverse (METAVERSE 2026)**. 
