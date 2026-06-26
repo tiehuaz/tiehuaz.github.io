@@ -36,6 +36,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 
 ## News
 
+- **[06/2026]**: I am pleased to serve as Co-Publicity Chair for [IEEE CIES 2027](https://attend.ieee.org/ssci-2027/symposia/engineering-cyber-physical-systems/). We warmly invite you to submit your latest research and contribute to this exciting symposium!
 - **[06/2026]**: I am honored to have been invited to serve as a Session Chair at **The Web Conference (WWW) 2026** and as a TPC member for **MobiQuitous 2026**.
 - **[06/2026]**: I'm invited to give a talk at **Shanghai Research Institute of Building Sciences (Group)**, titled "Collaborative Development and Trends of Large and Small Models Across Cloud–Edge Environment".
 - **[05/2026]**: I'm invited to give a talk at **CCF The Conference on Graph Machine Learning 2026**, titled "Hypergraph Computation and Domain Applications".
