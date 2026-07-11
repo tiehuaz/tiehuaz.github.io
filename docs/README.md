@@ -4,6 +4,7 @@
     <h1>Dr. Tiehua Zhang</h1>
     <p class="subtitle">
       Tenure-track Professor<br>
+      Director of the Tongji–YiXin Joint AI Innovation Lab<br>
       School of Computer Science and Technology, Tongji University
     </p>
   </div>
@@ -36,6 +37,8 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 
 ## News
 
+- **[07/2026]**: Delighted to announce our partnership with [YiXin](http://www.yixincars.com/en/Index.html) to establish the **Tongji–YiXin Joint AI Innovation Lab**, focused on pioneering research in LLMs and multi-agent systems. I am honored to serve as the Director of the lab.
+- **[07/2026]**: One paper accepted by **ACM MM**, Congrats to Jinze and others!
 - **[06/2026]**: I am pleased to serve as Co-Publicity Chair for [IEEE CIES 2027](https://attend.ieee.org/ssci-2027/symposia/engineering-cyber-physical-systems/). We warmly invite you to submit your latest research and contribute to this exciting symposium!
 - **[06/2026]**: I am honored to have been invited to serve as a Session Chair at **The Web Conference (WWW) 2026** and as a TPC member for **MobiQuitous 2026**.
 - **[06/2026]**: I'm invited to give a talk at **Shanghai Research Institute of Building Sciences (Group)**, titled "Collaborative Development and Trends of Large and Small Models Across Cloud–Edge Environment".
@@ -58,11 +61,6 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
       Jinze Wang, Yangchen Zeng, <strong>Tiehua Zhang*</strong>, Lu Zhang, Yuze Liu, Zhishu Shen, Jiong Jin, Zhu Su.<br>
       <strong>Meta-Modal Agent: Sequential Evidence Routing for Missing-Modality Candidate Reranking</strong>.<br>
       <em>arXiv:2605.25007, 2026</em>.
-    </li>
-    <li>
-      Jinze Wang, Yangchen Zeng, Tiehua Zhang, Lu Zhang, Yuze Liu, Yongchao Liu, Xingjun Ma, Zhu Su.<br>
-      <strong>Agent4POI: Agentic Context-Conditioned Affordance Reasoning for Multimodal Point-of-Interest Recommendation</strong>.<br>
-      <em>arXiv:2605.15203, 2026</em>.
     </li>
     <li>
       Tingshu Mou, Jiabo He, Renying Wang, Ce Liu, Hao Yang, <strong>Tiehua Zhang</strong>, Jingjing Chen, Xingjun Ma.<br>
@@ -116,6 +114,11 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
   <summary><span class="pub-year">2026</span></summary>
 
   <ul class="pub-list">
+    <li>
+      Jinze Wang, Yangchen Zeng, <strong>Tiehua Zhang*</strong>, Lu Zhang, Yuze Liu, Yongchao Liu, Xingjun Ma, Zhu Su.<br>
+      <strong>Agent4POI: Agentic Context-Conditioned Affordance Reasoning for Multimodal Point-of-Interest Recommendation</strong>.<br>
+      <em>ACM MM, 2026</em>.
+    </li>
     <li>
       Ziqi Rong, Zhishu Shen, Wanwei Zhan, Qiushi Zheng, <strong>Tiehua Zhang</strong>, Jiong Jin.<br>
       <strong>Heterogeneous Hypergraph Multi-Agent Learning for UAV Collaboration in Disaster Scenarios.</strong><br>
