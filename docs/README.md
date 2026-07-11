@@ -37,7 +37,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 
 ## News
 
-- **[07/2026]**: Delighted to announce our partnership with [YiXin](http://www.yixincars.com/en/Index.html) to establish the **Tongji–YiXin Joint AI Innovation Lab**, focused on pioneering research in LLMs and multi-agent systems. I am honored to serve as the Director of the lab.
+- **[07/2026]**: Delighted to announce our partnership with [YiXin](http://www.yixincars.com/en/About.html) to establish the **Tongji–YiXin Joint AI Innovation Lab**, focused on pioneering research in LLMs and multi-agent systems. I am honored to serve as the Director of the lab.
 - **[07/2026]**: One paper accepted by **ACM MM**, Congrats to Jinze and others!
 - **[06/2026]**: I am pleased to serve as Co-Publicity Chair for [IEEE CIES 2027](https://attend.ieee.org/ssci-2027/symposia/engineering-cyber-physical-systems/). We warmly invite you to submit your latest research and contribute to this exciting symposium!
 - **[06/2026]**: I am honored to have been invited to serve as a Session Chair at **The Web Conference (WWW) 2026** and as a TPC member for **MobiQuitous 2026**.
