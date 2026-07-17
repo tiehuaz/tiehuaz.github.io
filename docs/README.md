@@ -20,7 +20,7 @@
 
 ## Biography
 
-I am currently a tenure-track Professor at **Tongji University**. I earned my Bachelor's, Master's, and Doctoral degrees in
+I am currently a tenure-track Professor at **Tongji University** and Director of the **Tongji–YiXin Joint AI Innovation Lab**. I earned my Bachelor's, Master's, and Doctoral degrees in
 Computer Science from Jilin University, the University of Melbourne, and Swinburne University of Technology,
 respectively.
 
@@ -36,7 +36,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 ---
 
 ## News
-- **[07/2026]**: After a year and a half of waiting and hard work, our research, [MetaSTH-Sleep](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kFrxPKUAAAAJ&sortby=pubdate&citation_for_view=kFrxPKUAAAAJ:e5wmG9Sq2KIC), conducted in collaboration with multiple hospitals and trying to alleviate the impact of small-sample EEG data on patients’ sleep-state analysis, has finally been accepted by **Neurocomputing**. Many thanks to all our collaborators!
+- **[07/2026]**: After a year and a half of waiting and hard work, our research, [MetaSTH-Sleep](https://www.sciencedirect.com/science/article/pii/S0925231226019338), conducted in collaboration with multiple hospitals and trying to alleviate the impact of small-sample EEG data on patients’ sleep-state analysis, has finally been accepted by **Neurocomputing**. Many thanks to all our collaborators!
 - **[07/2026]**: Delighted to announce our partnership with [YiXin](http://www.yixincars.com/en/About.html) to establish the **Tongji–YiXin Joint AI Innovation Lab**, focused on pioneering research in LLMs and multi-agent systems. I am honored to serve as the Director of the lab.
 - **[07/2026]**: One paper accepted by **ACM MM**, Congrats to Jinze and others!
 - **[06/2026]**: I am pleased to serve as Co-Publicity Chair for [IEEE CIES 2027](https://attend.ieee.org/ssci-2027/symposia/engineering-cyber-physical-systems/). We warmly invite you to submit your latest research and contribute to this exciting symposium!
@@ -110,7 +110,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 
   <ul class="pub-list">
     <li>
-      Jingyu Li, <strong>Tiehua Zhang*</strong>, <strong>Jinze Wang*</strong>, Yi Zhang, Yuhuan Li, Yifan Zhao, Zhishu Shen, Libing Wu, Jiannan Liu.<br>
+      Jingyu Li, <strong>Tiehua Zhang*</strong>, Jinze Wang*, Yi Zhang, Yuhuan Li, Yifan Zhao, Zhishu Shen, Libing Wu, Jiannan Liu.<br>
       <strong>MetaSTH-Sleep: Towards Effective Few-Shot Sleep Stage Classification with Spatial-Temporal Hypergraph Enhanced Meta-Learning</strong>.<br>
       <em>Neurocomputing, 2026</em>.
     </li>
