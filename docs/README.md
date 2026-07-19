@@ -27,15 +27,16 @@ respectively.
 Prior to joining Tongji, I gained extensive experience across both academia and industry globally. My previous roles
 include Systems Development Engineer at Our Community Group in Australia, Visiting Scientist at KDDI Research in Japan,
 Postdoctoral Researcher at Macquarie University in Australia, and International Risk Algorithm Architect/Team Leader at Ant
-Group.
+Group in China.
 
-My research interests lie in Edge Intelligence, Distributed/Federated Learning, and LLM/SLM Synergistic Learning. My
+My research interests lie in LLM/SLM Synergistic Learning, Distributed/Federated Learning, and Edge Intelligence. My
 research has been recognized with several awards and honors, including the Swinburne Outstanding Thesis Award (Highly
 Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 
 ---
 
 ## News
+- **[07/2026]**: I am honored to deliver a keynote address at the Youth Pioneer Dialogue Forum of the **2026 World Artificial Intelligence Conference (WAIC)**, titled “Growing Together with AI in the Era of Human–AI Symbiosis.
 - **[07/2026]**: After a year and a half of waiting and hard work, our research, [MetaSTH-Sleep](https://www.sciencedirect.com/science/article/pii/S0925231226019338), conducted in collaboration with multiple hospitals and trying to alleviate the impact of small-sample EEG data on patients’ sleep-state analysis, has finally been accepted by **Neurocomputing**. Many thanks to all our collaborators!
 - **[07/2026]**: Delighted to announce our partnership with [YiXin](http://www.yixincars.com/en/About.html) to establish the **Tongji–YiXin Joint AI Innovation Lab**, focused on pioneering research in LLMs and multi-agent systems. I am honored to serve as the Director of the lab.
 - **[07/2026]**: One paper accepted by **ACM MM**, Congrats to Jinze and others!
@@ -53,7 +54,6 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 ---
 
 ## Selected Publications
-
 <details open class="pub-block">
   <summary><span class="pub-year">Preprint</span></summary>
   <ul class="pub-list">
