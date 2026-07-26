@@ -100,7 +100,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
     <li>
       Ziming Zhao, Zhenwei Wang, <strong>Tiehua Zhang*</strong>, Zhishu Shen, Hai Dong, Xingjun Ma, Zhijun Ding, Yun Yang.<br>
       <strong>CHASE: A Causal Heterogeneous Graph based Framework for Root Cause Analysis in Multimodal Microservice Systems</strong>.<br>
-      <em>CoRR abs/2406.19711, 2024</em>.
+      <em>CoRR abs/2406.19711, 2025</em>.
     </li>
   </ul>
 </details>
