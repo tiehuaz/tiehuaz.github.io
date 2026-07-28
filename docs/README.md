@@ -439,16 +439,17 @@ and LLM/SLM Synergistic Learning, and Graph Learning. Please drop me an email wi
 Email: [tiehuaz@hotmail.com](mailto:tiehuaz@hotmail.com)*
 
 ---
+
 <p align="center">
-  <sub>Visitor Analytics</sub>
-</p>
-<p align="center">
-  <a href="https://clustrmaps.com/site/1ca1q" title="Visit tracker">
+  <a
+    href="https://hits.sh/github.com/tiehuaz/"
+    title="View Visitor Stats"
+  >
     <img
-      src="//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=m&d=l_aQeg5gsKx8qJhQRnLZL3luRVRNHmsuBiN5glyUiBw"
-      alt="Visit tracker"
-      width="360"
+      src="https://hits.sh/github.com/tiehuaz.svg?style=for-the-badge&label=PROFILE+VIEWS&logo=github"
+      alt="GitHub profile visitor counter"
     />
   </a>
 </p>
+
 
