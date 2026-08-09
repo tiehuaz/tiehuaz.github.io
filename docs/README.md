@@ -422,21 +422,83 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 
 - Editorial Member: Human-Centric Intelligent Systems, Mathematics (Guest Editor), Journal on Wireless Communications
   and Networking (Guest Editor), Computer Engineering.
-- Chair/Organizer: Application and Industry Track Chair (METAVERSE 2025, 2026), Publicity Chair (CCF Digital Finance Conference, 2024)  
+- Chair/Organizer: Application and Industry Track Chair (METAVERSE 2025, 2026), Publicity Chair (2024 CCF Digital Finance Conference, 2027 IEEE Symposium on CI in Engineering / Cyber Physical Systems)  
 - PC for Conferences: NeurIPS (2021, 2022, 2023, 2024, 2025), WWW (2022, 2023, 2024, 2025), MSN (2024, 2025),
   INFOCOM (2023, 2024, 2025), ICASSP (2021, 2022, 2023, 2024, 2025, 2026), PAKDD (2019, 2020, 2021, 2023, 2024, 2025), ACM MM (2019,
   2020, 2021, 2024, 2026).
-- Reviewer for Journals: IEEE TAI, IEEE TII, IEEE IoT-J, IEEE TVT, IEEE TKDE, IEEE TBD, ACM TOSEM, IEEE TNSE, ACM TKDD,
+- Reviewer for Journals: IEEE TPAMI, IEEE TAI, IEEE TII, IEEE IoT-J, IEEE TVT, IEEE TKDE, IEEE TBD, ACM TOSEM, IEEE TNSE, ACM TKDD,
   Information Sciences, Neurocomputing, World Wide Web Journal, Neural Networks, EAAI, Information Processing &
-  Management.
+  Management, etc.
 
 ---
 
+[comment]: <> (## Students & Collaborators)
+
+[comment]: <> (I'm always happy to collaborate with **students and researchers** working on related research topics.)
+
+[comment]: <> (**Research Interests:**  )
+
+[comment]: <> (LLM/SLM Synergistic Learning · Distributed/Federated Learning · Edge Computing/Intelligence · Graph Learning)
+
+[comment]: <> (### Interested in working together?)
+
+[comment]: <> (If you're interested in collaborating, please send me a short email introducing your **background, research interests, and potential topics you'd like to explore**. 📧 **[tiehuaz@hotmail.com]&#40;mailto:tiehuaz@hotmail.com&#41;**)
 ## Students & Collaborators
 
-*I'm happy to collaborate with students and researchers interested in Edge Intelligence, Distributed/Federated Learning,
-and LLM/SLM Synergistic Learning, and Graph Learning. Please drop me an email with your background and interests.
-Email: [tiehuaz@hotmail.com](mailto:tiehuaz@hotmail.com)*
+<div style="
+  margin: 1.5rem 0 2rem 0;
+  padding: 1.6rem 1.8rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  background: #fafbfc;
+">
+
+  <p style="margin-top: 0; font-size: 1.05rem; line-height: 1.7;">
+    I'm happy to collaborate with students and researchers interested in
+    <strong>LLM/SLM Synergistic Learning</strong>,
+    <strong>Distributed/Federated Learning</strong>,
+    <strong>Edge Computing/Intelligence</strong>, and
+    <strong>Graph Learning</strong>.
+  </p>
+
+  <div style="
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 1.2rem 0 1.4rem 0;
+  ">
+    <span style="padding: 6px 12px; border-radius: 999px; background: #eef4ff; color: #2563eb;">
+      LLM / SLM
+    </span>
+    <span style="padding: 6px 12px; border-radius: 999px; background: #eef4ff; color: #2563eb;">
+      Distributed Learning
+    </span>
+    <span style="padding: 6px 12px; border-radius: 999px; background: #eef4ff; color: #2563eb;">
+      Edge Intelligence
+    </span>
+    <span style="padding: 6px 12px; border-radius: 999px; background: #eef4ff; color: #2563eb;">
+      Graph Learning
+    </span>
+  </div>
+
+  <div style="
+    padding: 1rem 1.2rem;
+    border-left: 4px solid #2563eb;
+    background: #f3f7ff;
+    border-radius: 8px;
+  ">
+    <strong>Interested in working together?</strong><br>
+    Please send me an email with a short introduction to your
+    <strong>background</strong>, <strong>research interests</strong>,
+    and any topics you'd like to explore.
+    <div style="margin-top: 0.8rem;">
+      📧 <a href="mailto:tiehuaz@hotmail.com"><strong>tiehuaz@hotmail.com</strong></a>
+    </div>
+  </div>
+
+</div>
+
+
 
 ---
 
