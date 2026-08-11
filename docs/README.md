@@ -36,6 +36,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 ---
 
 ## News
+- **[08/2026]**: Two papers accepted by **CIKM 2026**.
 - **[07/2026]**: I am honored to deliver a keynote address at the Youth Pioneer Dialogue Forum of the **2026 World Artificial Intelligence Conference (WAIC)**, titled “Growing Together with AI in the Era of Human–AI Symbiosis.
 - **[07/2026]**: After a year and a half of waiting and hard work, our research, [MetaSTH-Sleep](https://www.sciencedirect.com/science/article/pii/S0925231226019338), conducted in collaboration with multiple hospitals and trying to alleviate the impact of small-sample EEG data on patients’ sleep-state analysis, has finally been accepted by **Neurocomputing**. Many thanks to all our collaborators!
 - **[07/2026]**: Delighted to announce our partnership with [YiXin](http://www.yixincars.com/en/About.html) to establish the **Tongji–YiXin Joint AI Innovation Lab**, focused on pioneering research in LLMs and multi-agent systems. I am honored to serve as the Director of the lab.
@@ -83,11 +84,6 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
       <em>CoRR abs/2507.22339, 2025</em>.
     </li>
     <li>
-      Jinze Wang, Lu Zhang, Yiyang Cui, Zhishu Shen, Xingjun Ma, Jiong Jin, <strong>Tiehua Zhang*</strong>.<br>
-      <strong>Do We Really Need SFT? Prompt-as-Policy over Knowledge Graphs for Cold-start Next POI Recommendation</strong>.<br>
-      <em>CoRR abs/2510.08012, 2025</em>.
-    </li>
-    <li>
       Zhuocheng Liu, Zhishu Shen, Qiushi Zheng, <strong>Tiehua Zhang</strong>, Zheng Lei, Jiong Jin.<br>
       <strong>A Semi-Supervised Federated Learning Framework with Hierarchical Clustering Aggregation for Heterogeneous Satellite Networks</strong>.<br>
       <em>arXiv:2507.22339, 2025</em>.
@@ -109,6 +105,16 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
   <summary><span class="pub-year">2026</span></summary>
 
   <ul class="pub-list">
+    <li>
+      Dawen Jiang, Zhishu Shen, Zeyu Liu and <strong>Tiehua Zhang</strong>.<br>
+      <strong>Discovering and Preserving Category Correlation Knowledge via Adaptive Reciprocal Knowledge Distillation</strong>.<br>
+      <em>CIKM, 2026</em>.
+    </li>
+    <li>
+      Jinze Wang, Lu Zhang, <strong>Tiehua Zhang*</strong>, Yiyang Cui, Zhishu Shen, Xingjun Ma, Jiong Jin.<br>
+      <strong>Prompt-as-Policy over Knowledge Graphs for Cold-start Next POI Recommendation</strong>.<br>
+      <em>CIKM, 2026</em>.
+    </li>
     <li>
       Jingyu Li, <strong>Tiehua Zhang*</strong>, Jinze Wang*, Yi Zhang, Yuhuan Li, Yifan Zhao, Zhishu Shen, Libing Wu, Jiannan Liu.<br>
       <strong>MetaSTH-Sleep: Towards Effective Few-Shot Sleep Stage Classification with Spatial-Temporal Hypergraph Enhanced Meta-Learning</strong>.<br>
