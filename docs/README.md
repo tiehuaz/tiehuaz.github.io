@@ -66,9 +66,19 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
       <em>arXiv:2608.07838, 2026</em>.
     </li>
     <li>
-      Jinze Wang, Yangchen Zeng, <strong>Tiehua Zhang*</strong>, Lu Zhang, Yuze Liu, Zhishu Shen, Jiong Jin, Zhu Su.<br>
+      Jinze Wang, Yuze Liu, <strong>Tiehua Zhang*</strong>, Zhu Sun.<br>
+      <strong>HyperAgent4POI: Dynamic Semantic Message Passing on Multi-Agent Hypergraphs for Missing-Modality Recommendation</strong>.<br>
+      <em>arXiv:2608.01846, 2026</em>.
+    </li>
+    <li>
+      Jinze Wang, Yangchen Zeng, <strong>Tiehua Zhang*</strong>, Lu Zhang, Yuze Liu, Zhishu Shen, Zhu Su.<br>
       <strong>Meta-Modal Agent: Sequential Evidence Routing for Missing-Modality Candidate Reranking</strong>.<br>
       <em>arXiv:2605.25007, 2026</em>.
+    </li>
+    <li>
+      Jiahe Fan, Shaolong Shu, Mingjian Sun, <strong>Tiehua Zhang</strong>, Bohong Xiao, Hanli Wang, Rui Fan.<br>      
+      <strong>Unsupervised Collaborative Domain Adaptation for Driving Scene Parsing</strong>.<br>
+      <em>arXiv:2606.01818, 2026</em>.
     </li>
     <li>
       Tingshu Mou, Jiabo He, Renying Wang, Ce Liu, Hao Yang, <strong>Tiehua Zhang</strong>, Jingjing Chen, Xingjun Ma.<br>
@@ -89,11 +99,6 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
       Zhuocheng Liu, Zhishu Shen, Qiushi Zheng, <strong>Tiehua Zhang</strong>, Zheng Lei, Jiong Jin.<br>
       <strong>A Semi-Supervised Federated Learning Framework with Hierarchical Clustering Aggregation for Heterogeneous Satellite Networks</strong>.<br>
       <em>CoRR abs/2507.22339, 2025</em>.
-    </li>
-    <li>
-      Zhuocheng Liu, Zhishu Shen, Qiushi Zheng, <strong>Tiehua Zhang</strong>, Zheng Lei, Jiong Jin.<br>
-      <strong>A Semi-Supervised Federated Learning Framework with Hierarchical Clustering Aggregation for Heterogeneous Satellite Networks</strong>.<br>
-      <em>arXiv:2507.22339, 2025</em>.
     </li>
     <li>
       Zhenwei Wang, Ruibin Bai, Tiehua Zhang.<br>
@@ -118,7 +123,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
       <em>CIKM, 2026</em>.
     </li>
     <li>
-      Jinze Wang, Lu Zhang, <strong>Tiehua Zhang*</strong>, Yiyang Cui, Zhishu Shen, Xingjun Ma, Jiong Jin.<br>
+      Jinze Wang, Lu Zhang, <strong>Tiehua Zhang*</strong>, Yiyang Cui, Zhishu Shen, Xingjun Ma.<br>
       <strong>Prompt-as-Policy over Knowledge Graphs for Cold-start Next POI Recommendation</strong>.<br>
       <em>CIKM, 2026</em>.
     </li>
