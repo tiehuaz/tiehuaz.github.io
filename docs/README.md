@@ -66,6 +66,11 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
       <em>arXiv:2608.07838, 2026</em>.
     </li>
     <li>
+      Jinze Wang, Lu Zhang, <strong>Tiehua Zhang*</strong>, Yiyang Cui, Zhishu Shen, Xingjun Ma.<br>
+      <strong>Prompt-as-Policy over Knowledge Graphs for Cold-start Next POI Recommendation</strong>.<br>
+      <em>arXiv:2510.08012, 2026</em>.
+    </li>
+    <li>
       Jinze Wang, Yuze Liu, <strong>Tiehua Zhang*</strong>, Zhu Sun.<br>
       <strong>HyperAgent4POI: Dynamic Semantic Message Passing on Multi-Agent Hypergraphs for Missing-Modality Recommendation</strong>.<br>
       <em>arXiv:2608.01846, 2026</em>.
@@ -120,11 +125,6 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
     <li>
       Dawen Jiang, Zhishu Shen, Zeyu Liu and <strong>Tiehua Zhang</strong>.<br>
       <strong>Discovering and Preserving Category Correlation Knowledge via Adaptive Reciprocal Knowledge Distillation</strong>.<br>
-      <em>CIKM, 2026</em>.
-    </li>
-    <li>
-      Jinze Wang, Lu Zhang, <strong>Tiehua Zhang*</strong>, Yiyang Cui, Zhishu Shen, Xingjun Ma.<br>
-      <strong>Prompt-as-Policy over Knowledge Graphs for Cold-start Next POI Recommendation</strong>.<br>
       <em>CIKM, 2026</em>.
     </li>
     <li>
