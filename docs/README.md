@@ -36,6 +36,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 ---
 
 ## News
+- **[08/2026]**: One papers accepted by **Neural Networks**, Congrats to Zhenwei!
 - **[08/2026]**: Our [new paper](https://arxiv.org/abs/2608.07838) on grounded reasoning in LLMs over heterogeneous knowledge has been released. We introduce **TKFQA**, a benchmark for evaluating both answer correctness and reasoning consistency across text, tables, and knowledge graphs, and propose **ORLF** to improve robustness to input ordering.
 - **[08/2026]**: Two papers accepted by **CIKM 2026**.
 - **[07/2026]**: I am honored to deliver a keynote address at the Youth Pioneer Dialogue Forum of the **2026 World Artificial Intelligence Conference (WAIC)**, titled “Growing Together with AI in the Era of Human–AI Symbiosis.
@@ -105,11 +106,6 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
       <strong>A Semi-Supervised Federated Learning Framework with Hierarchical Clustering Aggregation for Heterogeneous Satellite Networks</strong>.<br>
       <em>CoRR abs/2507.22339, 2025</em>.
     </li>
-    <li>
-      Zhenwei Wang, Ruibin Bai, Tiehua Zhang.<br>
-      <strong>Towards Constraint-Based Adaptive Hypergraph Learning for Solving Vehicle Routing: An End-to-End Solution</strong>.<br>
-      <em>arXiv:2503.10421, 2025</em>.
-    </li>
   </ul>
 </details>
 
@@ -117,6 +113,11 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
   <summary><span class="pub-year">2026</span></summary>
 
   <ul class="pub-list">
+    <li>
+      Zhenwei Wang, Ruibin Bai, <strong>Tiehua Zhang</strong>.<br>
+      <strong>Towards Constraint-Based Adaptive Hypergraph Learning for Solving Vehicle Routing: An End-to-End Solution</strong>.<br>
+      <em>Neural Networks, 2026</em>.
+    </li>
     <li>
       Ziming Zhao, Zhenwei Wang, <strong>Tiehua Zhang*</strong>, Zhishu Shen, Hai Dong, Xingjun Ma, Zhijun Ding, Yun Yang.<br>
       <strong>CHASE: A Causal Hypergraph based Framework for Root Cause Analysis in Multimodal Microservice Systems</strong>.<br>
