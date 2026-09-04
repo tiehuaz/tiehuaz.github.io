@@ -114,8 +114,8 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 
   <ul class="pub-list">
     <li>
-      Zhenwei Wang, Ruibin Bai, <strong>Tiehua Zhang</strong>.<br>
-      <strong>Towards Constraint-Based Adaptive Hypergraph Learning for Solving Vehicle Routing: An End-to-End Solution</strong>.<br>
+      Zhenwei Wang, <strong>Tiehua Zhang</strong>, Jing Liu, Heng Yu, Kaizhu Huang, Ruibin Bai.<br>
+      <strong>Learning Constraints-Based Adaptive Hypergraph Neural Networks for Solving Vehicle Routing Problems</strong>.<br>
       <em>Neural Networks, 2026</em>.
     </li>
     <li>
