@@ -36,6 +36,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 ---
 
 ## News
+- **[09/2026]**: We released a [new survey](https://arxiv.org/abs/2609.06758), **Agentic Visual Generation: From Generative Models to Agentic Control**, introducing an L0–L4 framework for understanding what “agentic” really means in visual generation.
 - **[08/2026]**: One paper accepted by **Neural Networks**, Congrats to Zhenwei!
 - **[08/2026]**: Our [new paper](https://arxiv.org/abs/2608.07838) on grounded reasoning in LLMs over heterogeneous knowledge has been released. We introduce **TKFQA**, a benchmark for evaluating both answer correctness and reasoning consistency across text, tables, and knowledge graphs, and propose **ORLF** to improve robustness to input ordering.
 - **[08/2026]**: Two papers accepted by **CIKM 2026**.
