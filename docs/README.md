@@ -36,6 +36,8 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 ---
 
 ## News
+- **[09/2026]**: I’ve been awarded **ACM Shanghai Rising Star Award**! I’m grateful to the colleagues, mentors, collaborators, and friends who have supported and inspired me along the way.
+- **[09/2026]**: I’ve been elevated to **IEEE Senior Member**! 
 - **[09/2026]**: We released a [new survey](https://arxiv.org/abs/2609.06758), **Agentic Visual Generation: From Generative Models to Agentic Control**, introducing an L0–L4 framework for understanding what “agentic” really means in visual generation.
 - **[08/2026]**: One paper accepted by **Neural Networks**, Congrats to Zhenwei!
 - **[08/2026]**: Our [new paper](https://arxiv.org/abs/2608.07838) on grounded reasoning in LLMs over heterogeneous knowledge has been released. We introduce **TKFQA**, a benchmark for evaluating both answer correctness and reasoning consistency across text, tables, and knowledge graphs, and propose **ORLF** to improve robustness to input ordering.
@@ -415,7 +417,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 [comment]: <> (---)
 
 ## Awards & Honors
-
+- ACM Shanghai Rising Star Award, 2026
 - Shanghai Science & Technology 35 Under 35 (S&T35), 2025
 - Shanghai Pudong New Area Pearl Elite Award, 2024
 - CCF Digital Finance Conference Best Poster Award, 2024  
