@@ -30,7 +30,7 @@ Postdoctoral Researcher at Macquarie University in Australia, and International 
 Group in China.
 
 My research interests lie in LLM/SLM Synergistic Learning, Distributed/Federated Learning, and Edge Intelligence. My
-research has been recognized with several awards and honors, including the Swinburne Outstanding Thesis Award (Highly
+research has been recognized with several awards and honors, including the ACM Shanghai Rising Star Award, Swinburne Outstanding Thesis Award (Highly
 Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 
 ---
