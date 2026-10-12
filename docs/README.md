@@ -36,6 +36,7 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 ---
 
 ## News
+- **[10/2026]**: [New survey](https://doi.org/10.2139/ssrn.7591280) released: **Large Language Models for Human Mobility: A Survey from an Agent Perspective** — a collaboration across 9 universities and 2 industry partners globally.
 - **[09/2026]**: I’ve been awarded **ACM Shanghai Rising Star Award**! I’m grateful to the colleagues, mentors, collaborators, and friends who have supported and inspired me along the way.
 - **[09/2026]**: I’ve been elevated to **IEEE Senior Member**! 
 - **[09/2026]**: We released a [new survey](https://arxiv.org/abs/2609.06758), **Agentic Visual Generation: From Generative Models to Agentic Control**, introducing an L0–L4 framework for understanding what “agentic” really means in visual generation.
@@ -63,7 +64,12 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 <details open class="pub-block">
   <summary><span class="pub-year">Preprint</span></summary>
   <ul class="pub-list">
-    <li>
+      <li>
+      Jinze Wang, Yanxiang Lu, <strong>Tiehua Zhang*</strong>, Lei Zhang, Zhishu Shen, Zhu Sun, Yue Gao, Xingjun Ma, Gong Cheng, Zuxuan Wu, Feng Xia, Xuemin Lin, Chengqi Zhang.<br>
+      <strong>Large Language Models for Human Mobility: A Survey from an Agent Perspective.</strong><br>
+      <em>SSRN:7591280, 2026</em>.
+      </li>
+      <li>
       Shibo Chu, Yuze Liu, <strong>Tiehua Zhang*</strong>, Zhishu Shen, Lianghua He, Haofen Wang, Zhijun Ding.<br>
       <strong>Counterfactual Benchmarking and Training for Factuality Consistency and Order-Robust Grounded Reasoning in LLMs over Heterogeneous Knowledge.
 </strong><br>
