@@ -36,9 +36,9 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 ---
 
 ## News
-- **[10/2026]**: Our paper **TRCM: Topology-Aware Route-Consistency Modeling for Robust Neural Vehicle Routing** has received the **Best Paper Award**🏆 at the **2026 World Young Scientist Summit (WYSS 2026)**! Congrats to Zhenwei and Peiheng (undergraduate student).
+- **[10/2026]**: Our paper **TRCM: Topology-Aware Route-Consistency Modeling for Robust Neural Vehicle Routing** has received the **Best Paper Award** at the **2026 World Young Scientist Summit (WYSS 2026)**! Congrats to Zhenwei and Peiheng (undergraduate student).
 - **[10/2026]**: [New survey](https://doi.org/10.2139/ssrn.7591280) released: **Large Language Models for Human Mobility: A Survey from an Agent Perspective** — a collaboration across 9 universities and 2 industry partners globally.
-- **[09/2026]**: I’ve been awarded **ACM Shanghai Rising Star Award**🏆! I’m grateful to the colleagues, mentors, collaborators, and friends who have supported and inspired me along the way.
+- **[09/2026]**: I’ve been awarded **ACM Shanghai Rising Star Award**! I’m grateful to the colleagues, mentors, collaborators, and friends who have supported and inspired me along the way.
 - **[09/2026]**: I’ve been elevated to **IEEE Senior Member**! 
 - **[09/2026]**: We released a [new survey](https://arxiv.org/abs/2609.06758), **Agentic Visual Generation: From Generative Models to Agentic Control**, introducing an L0–L4 framework for understanding what “agentic” really means in visual generation.
 - **[08/2026]**: One paper accepted by **Neural Networks**, Congrats to Zhenwei!
