@@ -36,14 +36,15 @@ Commendation) and the Swinburne Research Excellence Award (HDR), etc.
 ---
 
 ## News
+- **[10/2026]**: Our paper **TRCM: Topology-Aware Route-Consistency Modeling for Robust Neural Vehicle Routing** has received the **Best Paper Award**🏆 at the **2026 World Young Scientist Summit (WYSS 2026)**! Congrats to Zhenwei and Peiheng (undergraduate student).
 - **[10/2026]**: [New survey](https://doi.org/10.2139/ssrn.7591280) released: **Large Language Models for Human Mobility: A Survey from an Agent Perspective** — a collaboration across 9 universities and 2 industry partners globally.
-- **[09/2026]**: I’ve been awarded **ACM Shanghai Rising Star Award**! I’m grateful to the colleagues, mentors, collaborators, and friends who have supported and inspired me along the way.
+- **[09/2026]**: I’ve been awarded **ACM Shanghai Rising Star Award**🏆! I’m grateful to the colleagues, mentors, collaborators, and friends who have supported and inspired me along the way.
 - **[09/2026]**: I’ve been elevated to **IEEE Senior Member**! 
 - **[09/2026]**: We released a [new survey](https://arxiv.org/abs/2609.06758), **Agentic Visual Generation: From Generative Models to Agentic Control**, introducing an L0–L4 framework for understanding what “agentic” really means in visual generation.
 - **[08/2026]**: One paper accepted by **Neural Networks**, Congrats to Zhenwei!
 - **[08/2026]**: Our [new paper](https://arxiv.org/abs/2608.07838) on grounded reasoning in LLMs over heterogeneous knowledge has been released. We introduce **TKFQA**, a benchmark for evaluating both answer correctness and reasoning consistency across text, tables, and knowledge graphs, and propose **ORLF** to improve robustness to input ordering.
 - **[08/2026]**: Two papers accepted by **CIKM 2026**.
-- **[07/2026]**: I am honored to deliver a keynote address at the Youth Pioneer Dialogue Forum of the **2026 World Artificial Intelligence Conference (WAIC)**, titled “Growing Together with AI in the Era of Human–AI Symbiosis.
+- **[07/2026]**: I am honored to deliver a keynote address at the Youth Pioneer Dialogue Forum of the **2026 World Artificial Intelligence Conference (WAIC 2026)**, titled “Growing Together with AI in the Era of Human–AI Symbiosis.
 - **[07/2026]**: After a year and a half of waiting and hard work, our research, [MetaSTH-Sleep](https://www.sciencedirect.com/science/article/pii/S0925231226019338), conducted in collaboration with multiple hospitals and trying to alleviate the impact of small-sample EEG data on patients’ sleep-state analysis, has finally been accepted by **Neurocomputing**. Many thanks to all our collaborators!
 - **[07/2026]**: Delighted to announce our partnership with [YiXin](http://www.yixincars.com/en/About.html) to establish the **Tongji–YiXin Joint AI Innovation Lab**, focused on pioneering research in LLMs and multi-agent systems. I am honored to serve as the Director of the lab.
 - **[07/2026]**: One paper accepted by **ACM MM**, Congrats to Jinze and others!
